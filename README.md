@@ -1,1 +1,1 @@
-"# QueryDslStudy" 
+Query Dsl Study Repository
